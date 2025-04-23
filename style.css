@@ -1,4 +1,23 @@
 /* 全体の基本スタイル */
+html {
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Noto Sans JP', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+}
+
+.container {
+  width: 90%;
+  max-width: 1120px;
+  background-color: green;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*
 body {
   font-family: "Arial", sans-serif;
   line-height: 1.6;
@@ -30,7 +49,8 @@ footer {
   background: #eee;
 }
 
-/* 見出しのスタイル */
+/* 見出しのスタイル 
 h1, h2 {
   margin-top: 0;
 }
+*/
