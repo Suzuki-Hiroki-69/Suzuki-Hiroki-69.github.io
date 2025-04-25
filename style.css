@@ -79,7 +79,7 @@ header {
 .header_menu li a {
   transition: .3s;
 }
-.header_menu li a;:hover {
+.header_menu li a:hover {
   color: #80BA4A;
   transition: .3s;
 }
