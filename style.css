@@ -1,51 +1,10 @@
 /* 全体の基本スタイル */
 html {
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Noto Sans JP', sans-serif;
+  /* font-family: 'Popins', sans-serif; */
   
-  .dancing-script-700 {
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-}
-
-  .noto400 {
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
-  .noto500 {
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-  }
-
-  .noto700 {
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-  }
-
 .pop {font-family: 'Poppins', sans-serif;}
-.pop400 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.pop500 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.pop700 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
 
 
 .container {
