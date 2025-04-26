@@ -127,5 +127,30 @@ header {
 }
 
 
+/* サービス */
+#service {
+  margin-bottom: 120px;
+}
+.service_inner {
+  margin-bottom: 40px;
+  position: relative;
+}
+.column-40 {
+  width: 40%;
+}
+.column-55 {
+  width: 55%;
+}
+#service img {
+  border-radius: 20px;
+}
+#service h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+
+
 
 }
