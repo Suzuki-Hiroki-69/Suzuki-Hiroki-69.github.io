@@ -29,7 +29,7 @@ header {
   letter-spacing: -0.04em;
 }
 .logo span {
-  color: #80BA4A;
+  color: #419aee;
 }
 .header_menu li {
   margin-left: 40px;
@@ -38,7 +38,7 @@ header {
   transition: .3s;
 }
 .header_menu li a:hover {
-  color: #80BA4A;
+  color: #419aee;
   transition: .3s;
 }
 
@@ -109,7 +109,7 @@ header {
 .title {
   font-size: 20px;
   font-weight: 500;
-  color: #80BA4A;
+  color: #419aee;
   margin-bottom: 40px;
 }
 #concept h3 {
@@ -134,7 +134,7 @@ header {
   font-family: 'Dancing Script', cursive;
   font-size: 200px;
   font-weight: 700;
-  color: #80BA4A;
+  color: #419aee;
   opacity: 0.1;
   position: absolute;
   top: 0;
@@ -206,12 +206,12 @@ header {
   width: 30%;
   padding: 48px 0;
   font-weight: 500;
-  border-bottom: solid 1px #D2ECBA;
+  border-bottom: solid 1px #98c0e6;
 }
 #company dd {
   width: 70%;
   padding: 48px 0;
-  border-bottom: solid 1px #D2ECBA;
+  border-bottom: solid 1px #98c0e6;
 }
 
 @media only screen and (max-width: 768px) {
