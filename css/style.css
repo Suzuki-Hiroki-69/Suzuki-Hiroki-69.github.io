@@ -102,8 +102,8 @@ header {
 }
 
 
-/* コンセプト */
-#concept {
+/* 自分の信念 */
+#philosophy {
   margin-bottom: 120px;
 }
 .title {
@@ -112,7 +112,7 @@ header {
   color: #419aee;
   margin-bottom: 40px;
 }
-#concept h3 {
+#philosophy h3 {
   font-size: 36px;
   font-weight: 700;
   margin-bottom: 60px;
