@@ -69,7 +69,7 @@ header {
   content: '';
   width: 100%;
   height: 100%;
-  background-color: #000000;
+  background-color: #ffffff;
   position: absolute;
   top: 0;
   left: 0;
@@ -78,7 +78,7 @@ header {
 }
 .hero_inner {
   z-index: 2;
-  color: #ffffff;
+  color: #0b174a;
   width: 100%;
   text-align: center;
 }
@@ -197,28 +197,28 @@ header {
   #hobby h3 {font-size: 17px;}
 }
 
-/* カンパニー */
-#company {
+/* 基本情報 */
+#about {
   margin-bottom: 120px;
 }
-#company dl {
+#about dl {
   max-width: 900px;
   margin-left: auto;
 }
-#company dt {
+#about dt {
   width: 30%;
   padding: 48px 0;
   font-weight: 500;
   border-bottom: solid 1px #98c0e6;
 }
-#company dd {
+#about dd {
   width: 70%;
   padding: 48px 0;
   border-bottom: solid 1px #98c0e6;
 }
 
 @media only screen and (max-width: 768px) {
-  #company dl {font-size: 13px;}
+  #about dl {font-size: 13px;}
 }
 
 
