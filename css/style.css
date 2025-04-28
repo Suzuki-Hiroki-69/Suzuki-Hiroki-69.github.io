@@ -123,8 +123,8 @@ header {
 .text {
   line-height: 2;
 }
-.concept-img {
-  background-image: url(../images/concept.jpg);
+.philosophy-img {
+  background-image: url(../images/philisophy.jpg);
   background-position: center;
   background-size: cover;
   height: 340px;
@@ -144,7 +144,7 @@ header {
 }
 
 @media only screen and (max-width: 768px) {
-  #concept h3 {
+  #philosophy h3 {
     font-size: 24px;
     line-height: 1.5;
   }
@@ -155,16 +155,16 @@ header {
     font-size: 15px;
     line-height: 1.7;
   }
-  .concept-img {margin-top: 30px;}
+  .philosophy-img {margin-top: 30px;}
 
 }
 
 
-/* サービス */
-#service {
+/* 趣味 */
+#hobby {
   margin-bottom: 120px;
 }
-.service_inner {
+.hobby_inner {
   margin-bottom: 40px;
   position: relative;
 }
@@ -174,10 +174,13 @@ header {
 .column-55 {
   width: 55%;
 }
-#service img {
+#hobby img {
   border-radius: 20px;
 }
-#service h3 {
+#hobby iframe {
+  border-radius: 20px;
+}
+#hobby h3 {
   font-size: 24px;
   font-weight: 700;
   margin-bottom: 24px;
@@ -191,7 +194,7 @@ header {
   .column-55 {
     width: 100%;
   }
-  #service h3 {font-size: 17px;}
+  #hobby h3 {font-size: 17px;}
 }
 
 /* カンパニー */
