@@ -227,7 +227,7 @@ header {
   background-image: url(../images/bottom1.jpg);
   background-position: center;
   background-size: cover;
-  width: 24%;
+  width: 22%;
   height: 270px;
   border-radius: 20px;
 }
@@ -235,7 +235,7 @@ header {
   background-image: url(../images/bottom2.jpg);
   background-position: center;
   background-size: cover;
-  width: 18%;
+  width: 26%;
   height: 270px;
   border-radius: 20px;
 }
@@ -251,7 +251,7 @@ header {
   background-image: url(../images/bottom4.jpg);
   background-position: center;
   background-size: cover;
-  width: 28%;
+  width: 26%;
   height: 270px;
   border-radius: 20px;
 }
