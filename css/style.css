@@ -162,14 +162,20 @@ header {
 
   .hobby_shogi {
     transform: translateY(170%);
+    /* color: #ffffff; */
+    /* transform: translate(-20%, 180%); */
   }
 
   .hobby_video {
     transform: translateY(170%);
+    color: #ffffff;
+    /* transform: translate(-20%, 170%); */
   }
 
   .hobby_game {
     transform: translateY(210%);
+    color: #ffffff;
+    /* transform: translate(-20%, 210%); */
   }
 
 }
