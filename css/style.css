@@ -160,6 +160,18 @@ header {
     font-size: 130px;
   }
 
+  .hobby_shogi {
+    transform: translateY(170%);
+  }
+
+  .hobby_video {
+    transform: translateY(170%);
+  }
+
+  .hobby_game {
+    transform: translateY(220%);
+  }
+
 }
 
 
